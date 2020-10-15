@@ -2,7 +2,8 @@
 
 This Python implementation allows for testing the models from the paper:
 
-  _DEVELOPING AND VALIDATING COVID-19 ADVERSE OUTCOME RISK PREDICTION MODELS FROM A BI-NATIONAL EUROPEAN COHORT OF 5594 PATIENTS_
+  [__DEVELOPING AND VALIDATING COVID-19 ADVERSE OUTCOME RISK PREDICTION MODELS FROM A BI-NATIONAL EUROPEAN COHORT OF 5594 PATIENTS__](https://www.medrxiv.org/content/10.1101/2020.10.06.20207209v1)
+  <sub>Espen Jimenez Solem, Tonny Studsgaard Petersen, Christina Lioma, Christian Igel, Wouter Boomsma, Oswin Krause, Casper Hansen, Christian Hansen, Stephan Lorentzen, Raghavendra Selvan, Janne Petersen, Martin Erik Nyeland, Mikkel Zoellner Ankarfeldt, Gert Mehl Virenfeldt, Mathilde Winther-Jensen, Allan Linneberg, Mostafa Mediphour Ghazi, Nicki Detlefsen, Andreas Lauritzen, Abraham George Smith, Marleen de Bruijne, Bulat Ibragimov, Jens Petersen, Martin Lillholm, Marie Helleberg, Benjamin Skov Kaas-Hansen, Jon Middleton, Stine Hasling Mogensen, Hans Christian Thorsen-Meyer, Anders Perner, Mikkel Bonde, Alexander Bonde, Akshay Pai, Mads Nielsen, Martin Sillesen</sub>
 
 and generating syntetic data for tests. The models trained on the real data is included with the implementation.
 
